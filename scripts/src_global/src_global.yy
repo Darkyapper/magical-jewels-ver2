@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"src_global",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"src_global",
+  "parent":{
+    "name":"MagicalJewlsVer2",
+    "path":"MagicalJewlsVer2.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
