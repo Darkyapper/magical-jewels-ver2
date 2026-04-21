@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"src_piece_land",
+  "%Name":"scr_get_fall_speed",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"src_piece_land",
+  "name":"scr_get_fall_speed",
   "parent":{
     "name":"MagicalJewlsVer2",
     "path":"MagicalJewlsVer2.yyp",

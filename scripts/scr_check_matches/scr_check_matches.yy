@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"src_gem_color",
+  "%Name":"scr_check_matches",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"src_gem_color",
+  "name":"scr_check_matches",
   "parent":{
     "name":"MagicalJewlsVer2",
     "path":"MagicalJewlsVer2.yyp",

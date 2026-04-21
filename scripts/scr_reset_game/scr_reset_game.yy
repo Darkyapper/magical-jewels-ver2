@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"src_global",
+  "%Name":"scr_reset_game",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"src_global",
+  "name":"scr_reset_game",
   "parent":{
     "name":"MagicalJewlsVer2",
     "path":"MagicalJewlsVer2.yyp",

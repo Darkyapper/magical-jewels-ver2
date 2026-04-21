@@ -1,3 +1,6 @@
+// No procesar input ni física si el juego terminó
+if (obj_game.game_state == "game_over") exit;
+
 // --- CAÍDA AUTOMÁTICA ---
 fall_timer++;
 if (fall_timer >= fall_speed) {
@@ -25,10 +28,12 @@ if (keyboard_check_pressed(vk_right)) {
 }
 
 // --- CAÍDA RÁPIDA (tecla abajo) ---
+var base_speed = scr_get_fall_speed(obj_game.level);
+
 if (keyboard_check(vk_down)) {
-    fall_speed = 4;   // cae mucho más rápido
+    fall_speed = SPEED_MIN;
 } else {
-    fall_speed = 30;  // velocidad normal (luego esto vendrá del nivel)
+    fall_speed = base_speed;
 }
 
 // --- ROTACIÓN ---

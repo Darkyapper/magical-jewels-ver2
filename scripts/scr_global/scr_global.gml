@@ -18,3 +18,7 @@
 
 #macro GEM_TYPES  6
 #macro MATCH_MIN 3
+
+#macro MAX_LEVEL     15
+#macro SPEED_START   45   // steps entre caídas en nivel 1 (~1.5s a 30fps)
+#macro SPEED_MIN     4

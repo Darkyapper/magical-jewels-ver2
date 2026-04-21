@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"src_resolve_board",
+  "%Name":"scr_global",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"src_resolve_board",
+  "name":"scr_global",
   "parent":{
     "name":"MagicalJewlsVer2",
     "path":"MagicalJewlsVer2.yyp",

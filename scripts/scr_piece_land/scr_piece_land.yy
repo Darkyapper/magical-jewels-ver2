@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_piece_land",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_piece_land",
+  "parent":{
+    "name":"MagicalJewlsVer2",
+    "path":"MagicalJewlsVer2.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

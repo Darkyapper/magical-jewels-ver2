@@ -57,5 +57,14 @@ function scr_check_matches() {
         }
     }
     
-    return found;  // devuelve true si hubo al menos un match
+    var count_cleared = 0;
+	if (found) {
+	    for (var i = 0; i < GRID_COLS * GRID_ROWS; i++) {
+	        if (marked[i] == 1) {
+	            grid_ref.grid[i] = GEM_EMPTY;
+	            count_cleared++;
+	        }
+	    }
+	}
+	return count_cleared;  // 0 si no hubo matches
 }

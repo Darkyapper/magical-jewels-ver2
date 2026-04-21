@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"src_piece_rotate",
+  "%Name":"scr_calculate_score",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"src_piece_rotate",
+  "name":"scr_calculate_score",
   "parent":{
     "name":"MagicalJewlsVer2",
     "path":"MagicalJewlsVer2.yyp",

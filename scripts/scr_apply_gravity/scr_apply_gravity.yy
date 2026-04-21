@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"src_piece_can_move",
+  "%Name":"scr_apply_gravity",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"src_piece_can_move",
+  "name":"scr_apply_gravity",
   "parent":{
     "name":"MagicalJewlsVer2",
     "path":"MagicalJewlsVer2.yyp",
