@@ -34,6 +34,7 @@
     {"id":{"name":"scr_piece_rotate","path":"scripts/scr_piece_rotate/scr_piece_rotate.yy",},},
     {"id":{"name":"scr_reset_game","path":"scripts/scr_reset_game/scr_reset_game.yy",},},
     {"id":{"name":"scr_resolve_board","path":"scripts/scr_resolve_board/scr_resolve_board.yy",},},
+    {"id":{"name":"scr_save_high_score","path":"scripts/scr_save_high_score/scr_save_high_score.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

@@ -4,6 +4,7 @@ function scr_reset_game() {
 
     // Guardar high score antes de resetear
     game_ref.high_score = max(game_ref.high_score, game_ref.scored);
+	scr_save_high_score();
 
     // Resetear stats
     game_ref.scored          = 0;

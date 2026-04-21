@@ -1,0 +1,1 @@
+scr_save_high_score();

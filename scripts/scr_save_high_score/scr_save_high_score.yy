@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_save_high_score",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_save_high_score",
+  "parent":{
+    "name":"MagicalJewlsVer2",
+    "path":"MagicalJewlsVer2.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
